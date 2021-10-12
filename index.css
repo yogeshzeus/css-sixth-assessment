@@ -1,0 +1,321 @@
+body{
+    background-image: url(./Sand-dunes-Sahara-Morocco-Merzouga.jpg);
+
+    
+}
+.camel{
+    position: absolute;
+    
+    
+
+}
+.nav{
+    display: flex;
+    
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    
+    
+}
+.bar{
+    color:black;
+    text-decoration: none;
+    
+    
+}
+.bar1{
+    margin-left: 50px;
+    cursor: pointer;
+    color: white;
+    
+
+}
+.bar2{
+    height: 25px;
+    width: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    right: 94px;
+    
+}
+.desert{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+h1{
+
+    color: white;
+    font-size: 100px;
+}
+.gun{
+    color: white;
+    word-wrap: break-word;
+}
+.but{
+    height: 30px;
+    width: 150px;
+    border: none;
+    border-radius: 18px;
+}
+
+.box1{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border: 2px solid ;
+    border-radius: 10px;
+    background-image: url(./west.jpg);
+    top: 150px;
+    right: 350px;
+    color: white;
+}
+.box1:hover {
+    transform: translateY(-30px);
+}
+.box2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border: 2px solid ;
+    border-radius: 10px;
+    background-image: url(./al-bagawat-el-bagawat-egypt.jpg);
+    top: 150px;
+    right: 50px;
+    color: white;
+}
+.box2:hover {
+    transform: translateY(-30px);
+}
+
+.box3{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border: 2px solid ;
+    border-radius: 10px;
+    background-image: url(./giza.jpg);
+    top: 450px;
+    right: 350px;
+    color: white;
+}
+.box3:hover {
+    transform: translateY(-30px);
+}
+
+.box4{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border: 2px solid ;
+    border-radius: 10px;
+    background-image: url(./kalahari.jpg);
+    top: 450px;
+    right: 50px;
+    color: white;
+}
+.box4:hover {
+    transform: translateY(-30px);
+}
+@media screen and (min-width:360px) and (max-width:550px) {
+    body{
+        background-image: url(./Sand-dunes-Sahara-Morocco-Merzouga.jpg);
+        
+    
+        
+    }
+    .nav{
+        display: flex;
+        
+        position: absolute;
+        top: 20px;
+        right: 5px;
+        
+        
+    }
+    .bar1{
+        margin-left: 20px;
+        cursor: pointer;
+        color: white;
+        
+    
+    }
+    .bar2{
+        height: 25px;
+        width: 25px;
+        border: 2px solid white;
+        border-radius: 50%;
+        position: absolute;
+        top: 15px;
+        right: 0px;
+        
+    }
+    .desert{
+        position: absolute;
+        top: 50px;
+        left: 5px;
+    }
+    h1{
+
+        color: white;
+        font-size: 50px;
+    }
+    .gun{
+        color: white;
+        word-wrap: break-word;
+    }
+    .but{
+        height: 30px;
+        width: 150px;
+        border: none;
+        border-radius: 18px;
+    }
+    .box1{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./west.jpg);
+        top: 400px;
+        right: 80px;
+        color: white;
+    }
+    
+    .box2{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./al-bagawat-el-bagawat-egypt.jpg);
+        top: 620px;
+        right: 80px;
+        color: white;
+    }
+    
+    .box3{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./giza.jpg);
+        top: 870px;
+        right: 80px;
+        color: white;
+    }
+    
+    .box4{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./kalahari.jpg);
+        top: 1090px;
+        right: 80px;
+        color: white;
+    } 
+}
+@media screen and (min-width:552px) and (max-width:870px) {
+    .nav{
+        display: flex;
+        
+        position: absolute;
+        top: 20px;
+        right: 5px;
+        
+        
+    }
+    .bar1{
+        margin-left: 20px;
+        cursor: pointer;
+        color: white;
+        
+    
+    }
+    .bar2{
+        height: 25px;
+        width: 25px;
+        border: 2px solid white;
+        border-radius: 50%;
+        position: absolute;
+        top: 15px;
+        right: 0px;
+        
+    }
+    .desert{
+        position: absolute;
+        top: 50px;
+        left: 5px;
+    }
+    h1{
+
+        color: white;
+        font-size: 50px;
+    }
+    .gun{
+        color: white;
+        word-wrap: break-word;
+    }
+    .but{
+        height: 30px;
+        width: 150px;
+        border: none;
+        border-radius: 18px;
+    }
+    .box1{
+        position: absolute;
+        height: 200px;
+        width: 600px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./west.jpg);
+        top: 400px;
+        right: 80px;
+        color: white;
+    }
+    
+    .box2{
+        position: absolute;
+        height: 200px;
+        width: 600px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./al-bagawat-el-bagawat-egypt.jpg);
+        top: 620px;
+        right: 80px;
+        color: white;
+    }
+    
+    .box3{
+        position: absolute;
+        height: 200px;
+        width: 600px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./giza.jpg);
+        top: 870px;
+        right: 80px;
+        color: white;
+    }
+    
+    .box4{
+        position: absolute;
+        height: 200px;
+        width: 600px;
+        border: 2px solid ;
+        border-radius: 10px;
+        background-image: url(./kalahari.jpg);
+        top: 1090px;
+        right: 80px;
+        color: white;
+    }
+
+
+}
